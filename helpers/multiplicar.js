@@ -35,7 +35,7 @@ const crearArchivo= async(base = 5, listar=false, hasta= 10)=>{
 }
 
 
-// exportar o volver nuestra funcion crear archivo de manera publica y pueda ser utilizado desde otros docs
+// exportar o volver nuestra funcion crear archivo de manera publica y pueda ser utilizado desde otros docs...
 module.exports={
     crearArchivo
 }
